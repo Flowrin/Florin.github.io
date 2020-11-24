@@ -102,7 +102,7 @@ const educationInfo = {
       desc: 'Took courses about Software Engineering, Algorithms and Tractability, Systems and Networks, Programming Languages and Compilers. ',
       descBullets: [
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+       
       ],
     },
 
