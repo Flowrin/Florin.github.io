@@ -9,7 +9,7 @@ const greeting = {
   username: 'Florin Lilea',
   title: "Hi I'm Florin",
   subTitle: emoji(
-    'A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.'
+    'A passionate Web Developer 🚀 having an experience of building Web  applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks.'
   ),
   resumeLink:
     'https://drive.google.com',
@@ -29,14 +29,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: 'What i do',
-  subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'CRAZY  DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
   skills: [
     emoji(
-      '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
+      '⚡ Develop highly interactive Front end / Back end applications for your web '
     ),
-    emoji('⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks'),
+    emoji('⚡ Single Page Applications using MERN stack'),
     emoji(
-      '⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean'
+      '⚡ Integration of third party services such as  AWS '
     ),
   ],
 
@@ -101,7 +101,7 @@ const educationInfo = {
       duration: 'September 2014 - July 2018',
       desc: 'Took courses about Software Engineering, Algorithms and Tractability, Systems and Networks, Programming Languages and Compilers. ',
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+       
        
       ],
     },
