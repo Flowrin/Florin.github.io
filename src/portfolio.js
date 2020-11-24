@@ -132,18 +132,26 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Software Engineer',
-      company: 'Facebook',
-      companylogo: require('./assets/images/facebookLogo.png'),
-      date: 'June 2018 – Present',
+      role: 'Web Developer - Intern',
+      company: 'Beautycos A/S Odense ',
+      companylogo: require('./assets/images/beautycos.jpg'),
+      date: 'December 2017 – May 2018',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        '	Created a single web page type application using  Less, React.js, Redux , Node.js, Express, Mongo DB. ',
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        '	Responsible to Style, look and feel of the web page with Less that extends CSS with dynamic behavior such as variable, mixing, operations and functions.',
+        '	Used React flux to polish the data and for single directional flow',
+        ' Have worked on AWS to integrate the server side and client-side code.',
+        ' Used Object Oriented Programming concepts to develop UI components that could be reused across the Web Application.',
+        ' Used Node.JS to structure and to build RESTful webservices.',
+        ' Used Mocha for doing the Unit testing of the application',
+        ' Developed the application using agile methodology and used Scrum method of project management.',
+        ' Applied optimization techniques to reduce page size and load times to enhance user experience.',
+        '	Maintain and configure MongoDB instances.',
+        ' Implement best practices for Rest API integration framework/model.',
       ],
     },
-    
+ 
   ],
 };
 
