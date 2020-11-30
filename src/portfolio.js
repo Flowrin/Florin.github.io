@@ -9,10 +9,10 @@ const greeting = {
   username: 'Florin Lilea',
   title: "Hi I'm Florin",
   subTitle: emoji(
-    'A passionate Web Developer 🚀 having an experience of building Web  applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks.'
+    'A passionate Web Developer 🚀 having experience in building Web  applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks.'
   ),
   resumeLink:
-    'https://drive.google.com',
+    'https://drive.google.com/file/d/1x0QFG7zOY4jcP3S-wS5zIjD8jH1Q37DE/view?usp=sharing',
 };
 
 // Your Social Media Link
