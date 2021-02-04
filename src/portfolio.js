@@ -52,10 +52,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: 'css3',
       fontAwesomeClassname: 'fab fa-css3-alt',
     },
-    {
-      skillName: 'sass',
-      fontAwesomeClassname: 'fab fa-sass',
-    },
+
     {
       skillName: 'less',
       fontAwesomeClassname: 'fab fa-less',
@@ -65,11 +62,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-js',
     },
     {
-      skillName: 'reactjs',
+      skillName: 'React.js',
       fontAwesomeClassname: 'fab fa-react',
     },
     {
-      skillName: 'nodejs',
+      skillName: 'Node.js',
       fontAwesomeClassname: 'fab fa-node',
     },
 
@@ -78,7 +75,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-npm',
     },
     {
-      skillName: 'mongoDB',
+      skillName: 'MongoDB',
       fontAwesomeClassname: 'fas fa-database',
     },
 
@@ -97,9 +94,9 @@ const educationInfo = {
     {
       schoolName: 'University College Lillebaelt',
       logo: require('./assets/images/uclLogo.png'),
-      subHeader: 'Bachelor in Computer Science with specialization in Web/Mobile Developement',
+      subHeader: 'Bachelor in Computer Science ',
       duration: 'September 2014 - July 2018',
-      desc: 'Took courses about Software Engineering, Algorithms and Tractability, Systems and Networks, Programming Languages and Compilers. ',
+      desc: 'Took courses about Software Engineering, Algorithms and Data Structures, Systems and Networks, Programming Languages and Compilers. ',
       descBullets: [
        
        
@@ -132,23 +129,25 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Web Developer - Intern',
+      role: 'Web Developer ',
       company: 'Beautycos A/S Odense ',
       companylogo: require('./assets/images/beautycos.jpg'),
-      date: 'December 2017 – May 2018',
+      date: 'December 2017 – November 2018',
       desc:
         '	Created a single web page type application using  Less, React.js, Redux , Node.js, Express, Mongo DB. ',
       descBullets: [
         '	Responsible to Style, look and feel of the web page with Less that extends CSS with dynamic behavior such as variable, mixing, operations and functions.',
-        '	Used React flux to polish the data and for single directional flow',
-        ' Have worked on AWS to integrate the server side and client-side code.',
-        ' Used Object Oriented Programming concepts to develop UI components that could be reused across the Web Application.',
-        ' Used Node.JS to structure and to build RESTful webservices.',
-        ' Used Mocha for doing the Unit testing of the application',
-        ' Developed the application using agile methodology and used Scrum method of project management.',
-        ' Applied optimization techniques to reduce page size and load times to enhance user experience.',
+        '	Have worked on AWS to integrate the server side and client-side code.',
+        '	Used React flux to polish the data and for single directional flow.',
+        '	Used Object Oriented Programming concepts to develop UI components that could be reused across the Web Application.',
+        '	Used Node.JS to structure and to build RESTful webservices.',
+        '	Continuous Integration/Continuous Delivery frameworks architecture, implementation and maintenance.',
+        '	Used Mocha for the Unit testing of the project.',
+        '	Applied optimization techniques to reduce page size and load times to enhance user experience.',
         '	Maintain and configure MongoDB instances.',
-        ' Implement best practices for Rest API integration framework/model.',
+        '	Deploying and maintaining production environment using AWS EC2 instances and ECS with Docker.',
+        '	Implement best practices for Rest API integration framework/model.',
+        
       ],
     },
  
